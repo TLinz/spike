@@ -5,7 +5,7 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-@MapperScan("com.linzzxz.spike.pojo")
+@MapperScan("com.linzzxz.spike.mapper")
 public class SpikeApplication {
 
     public static void main(String[] args) {
